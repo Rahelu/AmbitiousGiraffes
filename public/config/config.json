@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2544b638796642ebf2bbebdda8423674b1ad52ae",
+  "SCAN_LINK": "https://etherscan.io/address/0x2544b638796642ebf2bbebdda8423674b1ad52ae",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Ambitious Giraffes",
+  "SYMBOL": "AGNFT",
+  "MAX_SUPPLY": 474,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST":0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ambitious-giraffes",
+  "SHOW_BACKGROUND": true
+}
